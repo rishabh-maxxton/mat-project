@@ -1,0 +1,9 @@
+.demo-section + .demo-section {
+    margin-top: 16px;
+  }
+
+  :host {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
